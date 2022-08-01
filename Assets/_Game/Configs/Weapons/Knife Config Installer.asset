@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f019b1ea074c41c1b478d59bca292d3c, type: 3}
+  m_Name: Knife Config Installer
+  m_EditorClassIdentifier: 
+  _weaponPrefab: {fileID: 615751935449302702, guid: f904aca721922a84c9069a21f1b6af27,
+    type: 3}
+  _attackDistance: 2.5
+  _damage: 5
+  _attacksPerSecond: 1

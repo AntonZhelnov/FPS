@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00a1ddf58a6a47aea77ccd1e5fe6c4f6, type: 3}
+  m_Name: Enemy Config
+  m_EditorClassIdentifier: 
+  _enemyPrefab: {fileID: 7847005458029682339, guid: 264d52a7fade4a0488c6c875818c1895,
+    type: 3}
+  _moveAnimationConfig: {fileID: 11400000, guid: 4824a6ff2eaa40643b6a13bcecdf804f,
+    type: 2}
+  _hurtAnimationConfig: {fileID: 11400000, guid: ead537c1f5391fb44bd87e269aa03941,
+    type: 2}
+  _idleAnimationConfig: {fileID: 11400000, guid: b8590dbbc2929284397e4c0aaa6683fc,
+    type: 2}
+  _deadAnimationConfig: {fileID: 11400000, guid: 49ddb81ccb71ad24b91e5b7afe459384,
+    type: 2}
+  _enemyArchetypeConfigs:
+  - {fileID: 11400000, guid: b1873a9620ef91a4bb55cb3357b5ab3a, type: 2}
+  - {fileID: 11400000, guid: 646527373a383ef4d9021bf0e6ffc165, type: 2}
+  _enemyAttackConfigs:
+  - {fileID: 11400000, guid: 0076e9ea1f5339a4bbb23add162b3d8b, type: 2}
+  - {fileID: 11400000, guid: 92665ea6228356e45a8faa7ce10c002b, type: 2}

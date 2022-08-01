@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 424aaf5a17334cdf9d45cdf98f5564e0, type: 3}
+  m_Name: Enemy Spawn Config Installer
+  m_EditorClassIdentifier: 
+  _enemyConfig: {fileID: 11400000, guid: 6445bd075bbfd42448e791a2b05a523f, type: 2}
+  _enemySpawnAreaConfig: {fileID: 11400000, guid: 7ece0ae0ac080204aa45521e54addf98,
+    type: 2}
+  _spawnInterval: 2
+  _enemiesMaximum: 100

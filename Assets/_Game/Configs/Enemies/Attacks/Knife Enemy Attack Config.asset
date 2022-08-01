@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f63bdd45a59842d391f71a7d962bbe36, type: 3}
+  m_Name: Knife Enemy Attack Config
+  m_EditorClassIdentifier: 
+  _attackAnimationConfig: {fileID: 11400000, guid: 4f38091a30ca3f548bee09c7ae6e01b6,
+    type: 2}
+  _weaponConfig: {fileID: 11400000, guid: aaed001d8c420324288602c6d2bd8d86, type: 2}

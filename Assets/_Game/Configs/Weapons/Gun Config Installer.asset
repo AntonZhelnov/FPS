@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37c77af4973b455091be1d87772daa09, type: 3}
+  m_Name: Gun Config Installer
+  m_EditorClassIdentifier: 
+  _weaponPrefab: {fileID: 7874916983938621551, guid: df9fb2862ab51af4fae56cb71de4c714,
+    type: 3}
+  _attackDistance: 7
+  _damage: 10
+  _attacksPerSecond: 3
