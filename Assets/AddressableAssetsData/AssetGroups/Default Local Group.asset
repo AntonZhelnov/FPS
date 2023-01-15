@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: dcf9617dc57859247906cab70b3bf399
+  m_SerializeEntries:
+  - m_GUID: 0014de9a808299f469e09dac3d27c325
+    m_Address: Metal Sparks
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f319b1e774fdaf543b5e12b10dc119d1
+    m_Address: Bullet
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f904aca721922a84c9069a21f1b6af27
+    m_Address: Knife
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: df9fb2862ab51af4fae56cb71de4c714
+    m_Address: Gun
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b6290fa0f4477bd4dbe40f41dc943bb9
+    m_Address: LoadingScreen
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 264d52a7fade4a0488c6c875818c1895
+    m_Address: Enemy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 59c3b14688470e7488c949d79dc95ab6
+    m_Address: Blood Splat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 37ae2877e180c5948a9faeba79b3f84c
+    m_Address: Menu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4f3f287582cc33240b03a13ea2e8707a
+    m_Address: Zombie Blood Splat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fd2b1830b83e7e440ac1aac9347a0a88
+    m_Address: Prototype
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4a9abfefd4ae49b48bceb768a7660242
+    m_Address: Common
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 68da538944be45848a4f3276b2d8985b
+    m_Address: Enemy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f0b468f2cd4f9f44bb69c9fb2ac622d0
+    m_Address: Particle Effects
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 73dd571d0dba7a84db164c2324845424
+    m_Address: Player
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1daa44e721d2e564d8cdf63fa718db41
+    m_Address: Project
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f2897f7bf1d9e524ab7a474cd08f1603
+    m_Address: Prototype
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: efd9892aeb9e33d4dbbafa7d6b76296f
+    m_Address: UI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2282cc9e43275b64c9c5b40665abb089
+    m_Address: Gun
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 668f43c3b98d85e48a0e35ef8277969d
+    m_Address: Knife
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 75fdcf59aa76c55498318a7870a67b3f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 62958c1a7d81f03489aeaecc42924e0e, type: 2}
+    - {fileID: 11400000, guid: 5bf826d4b64659d4dbfe756f8e65e30a, type: 2}
